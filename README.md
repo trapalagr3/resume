@@ -1,4 +1,4 @@
-# 김태영(kim Taeyoung)
+# Resume
 
 *A simple Jekyll + GitHub Pages powered resume template.*
 
